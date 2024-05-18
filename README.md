@@ -7,7 +7,7 @@ This project fetches data from a given API, processes it to identify sources for
 1. Clone the repository.
     ```sh
     git clone <repository_url>
-    cd gen-ai-assignment
+    cd Python-API-Citations-Fetcher
     ```
 2. Create a virtual environment and activate it:
     ```sh
